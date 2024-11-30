@@ -9,10 +9,10 @@ import Telemetry from './pages/Telemetry'
 function App() {
   return (
     <Router>
-      <div className="min-h-screen bg-black text-white">
+      <div className="min-h-screen text-white">
         <div className="container mx-auto px-4 py-8">
           <Link to="/">
-            <h1 className="text-4xl font-bold text-center mb-12">F1 Stats Hub</h1>
+            <h1 className="text-4xl font-bold font-poppins text-center mb-12">F1 Stats Hub</h1>
           </Link>
           
           <Routes>
