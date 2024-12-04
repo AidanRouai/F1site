@@ -29,7 +29,7 @@ function App() {
                   to="/telemetry"
                   className="bg-blue-600 hover:bg-blue-700 text-white font-bold py-4 px-8 rounded-lg w-64 text-center transform transition-transform hover:scale-105"
                 >
-                  Race Telemetry
+                  Car Telemetry
                 </Link>
               </div>
             } />
